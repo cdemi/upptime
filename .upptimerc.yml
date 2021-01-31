@@ -6,6 +6,8 @@ sites:
     url: https://newsletters.cdemi.io/
   - name: cdemi's Newsletter Curator
     url: https://newslettercurator.cdemi.io/health
+  - name: cdemi's Blog
+    url: https://blog.cdemi.io/
 
 status-website:
   cname: upptime.cdemi.io
