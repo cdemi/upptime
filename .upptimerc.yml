@@ -8,6 +8,8 @@ sites:
     url: https://newslettercurator.cdemi.io/health
   - name: cdemi's Blog
     url: https://blog.cdemi.io/
+  - name: moo.mt
+    url: https://moo.mt
 
 status-website:
   cname: upptime.cdemi.io
