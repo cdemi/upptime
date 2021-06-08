@@ -58,17 +58,17 @@
     "url": "https://moo.mt",
     "icon": "https://favicons.githubusercontent.com/moo.mt",
     "slug": "moo-mt",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 443,
-    "timeDay": 7853,
-    "timeWeek": 2156,
-    "timeMonth": 720,
-    "timeYear": 443,
+    "time": 440,
+    "timeDay": 5302,
+    "timeWeek": 1938,
+    "timeMonth": 704,
+    "timeYear": 440,
     "dailyMinutesDown": {}
   }
 ]
